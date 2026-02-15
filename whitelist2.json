@@ -1,13 +1,13 @@
 {
   "players": {},
   "owners": {
-    "351875313388617729": "ec4db6bd37a4655db1028aa963f068c5540febc25dd99c9df4450307fb619c4fc3b5235cb134e436a49e3d72ac41021ba865d9c0d72ec6699d22099e4d3814c3",
+    10140512827": "ec4db6bd37a4655db1028aa963f068c5540febc25dd99c9df4450307fb619c4fc3b5235cb134e436a49e3d72ac41021ba865d9c0d72ec6699d22099e4d3814c3",
     "977294634877325382": {
       "hash": "963aeb46be64ff525f92b879a6ef5f879d0d98303ea0417663ef981b68091c5d81acd8fd2fdf47edf1543d9a9de1ac9340e5ab1e8ffe79da2f32760d162f1227",
       "invulnerable": true
     }
   },
-  "chattags": {},
+  "chattags": {Nerv4},
   "specialusers": {
     "529155884643909643": {
       "NameColor": {
